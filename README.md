@@ -1,9 +1,9 @@
 # workshops
-Suggested Data Sets:
+### Suggested Data Sets:
 
 https://github.com/bigdatachallenge/datasets_for_the_un_sustainable_development_goals
 
-Instructions
+### Instructions
 
 Please download Jupyter (http://jupyter.org/) for Linux, Mac, and Windows. You’ll be using it to run the workshops. There are installation instructions and the first thing you should do is open the R - Jupyter Essentials in 5 Minutes.ipynb notebook for R and the Python - Jupyter Essentials in 5 Minutes.ipynb for Python.
 
